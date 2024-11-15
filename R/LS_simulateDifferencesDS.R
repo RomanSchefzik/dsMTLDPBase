@@ -43,7 +43,7 @@
 
 
 
-LR_simulateDifferencesDS <- function(w, x, y) {
+LS_simulateDifferencesDS <- function(w, x, y) {
   
   ###calculate values with one row removed
   
